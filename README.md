@@ -107,10 +107,11 @@
   }
 </style>
 
-
-<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">Discord
+<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">
+    Discord
   </button>
 </a>
+
 
 <a href="https://youtube.com/@animesike.?si=QWjPWu1GYRps3cYd"><button class="Subscribe">Subscribe
   </button>
