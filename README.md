@@ -100,7 +100,8 @@
          padding-bottom: 170px;
          color: cyan;
          padding-left: 47%;
-    
+   body{background-color: black;
+         color: white
   }
 </style>
 
