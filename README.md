@@ -1,7 +1,6 @@
 <header>
   FunByte Interactive
 </header>
-
 <style>
   header{background-color:#111214;
          color: cyan;
@@ -11,9 +10,8 @@
          font-size: 10.5px;
          font-weight: bold;
         
-        }
-body {background-color: black;
-    color: white;
+        
+
   }
 </style>
 
@@ -71,7 +69,6 @@ body {background-color: black;
     cursor: pointer;
     font-weight: bold;
     margin-right: 100px;
-    padding
    
    
     
@@ -108,8 +105,7 @@ body {background-color: black;
 </style>
 
 
-<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">
-    Discord
+<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">Discord
   </button>
 </a>
 
