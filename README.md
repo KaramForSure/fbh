@@ -107,8 +107,7 @@
   }
 </style>
 
-<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">
-    Discord
+<a href=https://discord.gg/hQAW5UBzZt><button class="Discord">Discord
   </button>
 </a>
 
