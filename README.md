@@ -2,17 +2,19 @@
   FunByte Interactive
 </header>
 <style>
-  header{background-color:#111214;
+  header{background-color: #111214;
          color: cyan;
          padding-top: 15px;
          padding-bottom: 15px;
          padding-left: 8px;
          font-size: 10.5px;
-         font-weight: bold;
-        
+         font-weight: bold;}
+    body{background-color: black;
+         color: white;
+         }
         
 
-  }
+  
 </style>
 
 <body>
